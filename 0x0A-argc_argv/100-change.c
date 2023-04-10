@@ -1,8 +1,3 @@
-/*
- * File: 100-change.c
- * Author: Chukwuka Akibor
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 

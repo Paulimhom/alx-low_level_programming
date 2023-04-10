@@ -1,8 +1,3 @@
-/*
- * File: 0-whatsmyname.c
- * Author: Chukwuka Akibor
- */
-
 
 #include <stdio.h>
 

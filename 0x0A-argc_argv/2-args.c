@@ -1,8 +1,3 @@
-/*
- * File: 2-args.c
- * Author: Chukwuka Akibor
- */
-
 #include <stdio.h>
 
 /**

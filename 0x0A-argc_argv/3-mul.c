@@ -1,8 +1,3 @@
-/*
- * File: 3-mul.c
- * Author: Chukwuka Akibor
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 

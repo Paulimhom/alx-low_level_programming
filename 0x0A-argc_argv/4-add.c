@@ -1,8 +1,3 @@
-*
- * File: 4-add.c
- * Author: Chukwuka Akibor
- */
-
 #include <stdio.h>
 
 /**
