@@ -2,8 +2,6 @@
 
 /**
  * _strstr - function that locates a substring
- * @haystack: string
- * @needle: substring
  *
  * Return: a pointer to the beginning of the located substring, or NULL
  */
@@ -17,14 +15,14 @@
  * it returns a special value called NULL
 */
 
-char *_strstr(char *haystack, char *needle)
+char *_strstr(char *haystack, char *nidle)
 {
 	char *h = haystack;
-	char *n = needle;
+	char *n = nidle;
 
 	while (*h)
 	{
-		n = needle;
+		n = nidle;
 		h = haystack;
 		while (*n)
 		{
